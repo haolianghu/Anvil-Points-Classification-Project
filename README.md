@@ -1,7 +1,7 @@
 # Anvil-Points-Classification-Project
 Used Anvil to create a website. Given a CSV file with points in the form of x and y coordinates, this website will help you classify the arm each point belongs to (arm 0 or 1).
 
-The link to the website (to login, can use username <i>example@gmail.com<i> and password <i>123<i>:
+The link to the website (to login, can use username <i><b>example@gmail.com<i><b> and password <i><b>123<i><b>:
 https://utmidtermhh27683.anvil.app/
 
 The link to clone the website (to see the client-side code):
